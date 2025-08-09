@@ -1,0 +1,1 @@
+In this course, I have learned how to create repositories, commit changes, and push them to GitHub. 
